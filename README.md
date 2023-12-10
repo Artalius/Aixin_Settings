@@ -2,6 +2,7 @@
 
 ## Who can use this?
 -Does your Projector use *com.chijimlee.tyylauncher* for the settings?
+
 -Does your default home screen not allow adding apps?
 
 ### This app allows access back into the Factory Settings, while allowing you to select a new Home Launcher
