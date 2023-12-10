@@ -1,13 +1,14 @@
 # Aixin_Settings
 
 ## Who can use this?
+-Does your Projector use *com.chijimlee.tyylauncher* for the settings?
+-Does your default home screen not allow adding apps?
 
-## Does you Projector use *com.chijimlee.tyylauncher* for the settings?
-## Does you default home screen not allow adding apps?
+### This app allows access back into the Factory Settings, while allowing you to select a new Home Launcher
 
 
 This app is for anyone who has replaced the Launcher on their Aixin Projector.
-I am using "Easy TV Launcher" right now. basic and light weight.
+I am using "Easy TV Launcher" right now, basic and lightweight.
 
 This only opens the native settings app (com.ChiJimLee.tyylauncher)
 
