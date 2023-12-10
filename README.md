@@ -1,10 +1,11 @@
 # Aixin_Settings
 
 This app is for anyone who has replaced the Launcher on their Aixin Projector.
+I am using "Easy TV Launcher" right now. basic and light weight.
 
 This only opens the native settings app (com.ChiJimLee.tyylauncher)
 
-This exists so that i can have any other Home Launcher, but still get into the vendor specific Project Settings, namely for Wireless and Trapaziodal adjustments
+This exists so that I can have any other Home Launcher, but still get into the vendor-specific Project Settings, namely for Wireless and Trapaziodal adjustments
 
 Tested only on Aixin Star Q2
 this goes by many other names, my unit is specifically a Horlat Q2
